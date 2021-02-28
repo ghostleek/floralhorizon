@@ -112,8 +112,7 @@ nav,
 section {
   display: block;
 }
-
-body {
+` body {
   line-height: 1;
 }
 
@@ -2862,7 +2861,7 @@ button1:disabled,
 }
 
 .subpage #header {
-  background: #6cc091;
+  background: black;
   top: 0;
   height: 44px;
   line-height: 44px;
